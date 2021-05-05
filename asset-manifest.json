@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DistlTask/static/css/main.57327dc7.chunk.css",
+    "main.js": "/DistlTask/static/js/main.9c53c3c1.chunk.js",
+    "main.js.map": "/DistlTask/static/js/main.9c53c3c1.chunk.js.map",
+    "runtime-main.js": "/DistlTask/static/js/runtime-main.3d351a9c.js",
+    "runtime-main.js.map": "/DistlTask/static/js/runtime-main.3d351a9c.js.map",
+    "static/js/2.da4f5129.chunk.js": "/DistlTask/static/js/2.da4f5129.chunk.js",
+    "static/js/2.da4f5129.chunk.js.map": "/DistlTask/static/js/2.da4f5129.chunk.js.map",
+    "static/js/3.f77f1386.chunk.js": "/DistlTask/static/js/3.f77f1386.chunk.js",
+    "static/js/3.f77f1386.chunk.js.map": "/DistlTask/static/js/3.f77f1386.chunk.js.map",
+    "index.html": "/DistlTask/index.html",
+    "static/css/main.57327dc7.chunk.css.map": "/DistlTask/static/css/main.57327dc7.chunk.css.map",
+    "static/js/2.da4f5129.chunk.js.LICENSE.txt": "/DistlTask/static/js/2.da4f5129.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/DistlTask/static/media/bg.a0c19713.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d351a9c.js",
+    "static/js/2.da4f5129.chunk.js",
+    "static/css/main.57327dc7.chunk.css",
+    "static/js/main.9c53c3c1.chunk.js"
+  ]
+}
